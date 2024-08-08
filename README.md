@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/6178f683-a408-4de7-91d1-61cf248e5048)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+this+is+Jeeva+%F0%9F%91%8B;Nice+to+meet+you+!!)](https://git.io/typing-svg)
 ===============================================================================================================================================================
 
