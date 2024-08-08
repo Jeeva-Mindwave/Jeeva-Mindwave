@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/6178f683-a408-4de7-91d1-61cf248e5048)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+this+is+Jeeva+%F0%9F%91%8B;Nice+to+meet+you+!!)](https://git.io/typing-svg)
 ===============================================================================================================================================================
 
@@ -36,11 +36,11 @@ Things I code with
  Github Stats 
 ------------------------
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-mindwave)
+![](https://github-readme-stats.vercel.app/api?username=jeeva-mindwave&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jeeva-mindwave)](https://git.io/streak-stats)
+![](https://github-readme-streak-stats.herokuapp.com/?user=jeeva-mindwave&theme=vue-dark&hide_border=true)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=jeeva-mindwave&theme=react-dark&bg_color=20232a&hide_border=true&color=E34F26)
+![](https://github-readme-activity-graph.vercel.app/graph?username=jeeva-mindwave&theme=react-dark&bg_color=20232a&hide_border=true&color=41b883)
 
 🏆  Github Profile Trophy 
 ------------------------
