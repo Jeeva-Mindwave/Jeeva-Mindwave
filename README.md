@@ -11,7 +11,7 @@ I am a software developer skilled in designing and integrating systems based on 
         
 Whatsapp : [8667760567](https://wa.me/8667760567)
 
-Linkedin : [@jeevadhasan](https://linkedin.com/in/www.linkedin.com/in/jeevadhasan-e-204452b2)
+Linkedin : [@jeevadhasan](www.linkedin.com/in/jeevadhasan-e-204452b2)
 
 Things I code with
 -------------------------
