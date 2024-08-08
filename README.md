@@ -15,6 +15,7 @@ Whatsapp : [8667760567](https://wa.me/8667760567)
 Linkedin : [@jeevadhasan](https://linkedin.com/in/www.linkedin.com/in/jeevadhasan-e-204452b2)
 
 Things I code with
+-------------------------
 
 ![Image Alt Text](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
 ![Image Alt Text](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
@@ -32,7 +33,7 @@ Things I code with
 ![Image Alt Text](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
 
 
- ⚡ Stats ⚡ 
+ Github Stats 
 ------------------------
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-mindwave)
