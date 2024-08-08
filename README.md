@@ -1,4 +1,6 @@
-# Hi 👋, I'm Jeeva
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+this+is+Jeeva+%F0%9F%91%8B;Nice+to+meet+you+!!)](https://git.io/typing-svg)
+===============================================================================================================================================================
 
 I am a software developer skilled in designing and integrating systems based on creative ideas.
 
