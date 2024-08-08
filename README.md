@@ -5,17 +5,35 @@
 I am a software developer skilled in designing and integrating systems based on creative ideas.
 
 ![Image Alt Text](https://komarev.com/ghpvc/?username=jeeva-mindwave&label=Profile%20views&color=0e75b6&style=flat)
+------------------------
 
-### ⚡ Connect with me ⚡
+ Connect with me 
+------------------------
+        
+Whatsapp : [8667760567](https://wa.me/8667760567)
 
-[Whatsapp](https://wa.me/8667760567)
+Linkedin : [https://linkedin.com/in/www.linkedin.com/in/jeevadhasan-e-204452b2](https://linkedin.com/in/www.linkedin.com/in/jeevadhasan-e-204452b2)
 
-[Linkedin](https://linkedin.com/in/www.linkedin.com/in/jeevadhasan-e-204452b2)
+------------------------
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+Things I code with
 
-### ⚡ Stats ⚡
+![Image Alt Text](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white)
+![Image Alt Text](https://camo.githubusercontent.com/ff4ce3f023f28367db26fcca960568aa8c8c8fbaf419b9f255484e8830fdc0d7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656475782d3736344142433f7374796c653d666c61742d737175617265266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465)
+![Image Alt Text](https://camo.githubusercontent.com/76496f9153dab79a9a835bfc133e95be11ed15bcfdb109202f77d3e6eaa3dd90/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d416e67756c61722d4444303033313f7374796c653d666c61742d737175617265266c6f676f3d616e67756c6172266c6f676f436f6c6f723d7768697465)
+![Image Alt Text](https://camo.githubusercontent.com/4f8210669c113b24c8b6dae514e63df3f10aa8b5fa1142df5a6eaf0e7e421c7e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769746875625f416374696f6e732d3230383846463f7374796c653d666c61742d737175617265266c6f676f3d6769746875622d616374696f6e73266c6f676f436f6c6f723d7768697465)
+![Image Alt Text](https://camo.githubusercontent.com/6010a85175edf5787bba645d2bdad7ec26f41aafce3f5a59569352de55deed74/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d48544d4c352d4533344632363f7374796c653d666c61742d737175617265266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)
+![Image Alt Text](https://camo.githubusercontent.com/3d4a55e7d45198177f13f9f10c536edd2970c43d753759585e3391d04677e56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Image Alt Text](https://camo.githubusercontent.com/3d4a55e7d45198177f13f9f10c536edd2970c43d753759585e3391d04677e56d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4769742d4630353033323f7374796c653d666c61742d737175617265266c6f676f3d676974266c6f676f436f6c6f723d7768697465)
+![Static Badge](https://img.shields.io/badge/-Tailwindcss-45b8d8?style=flat-square&logo=tailwindcss&logoColor=white)
+
+
+
+
+------------------------
+
+ ⚡ Stats ⚡ 
+------------------------
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeeva-mindwave)
 
@@ -23,11 +41,8 @@ I am a software developer skilled in designing and integrating systems based on 
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=jeeva-mindwave&theme=react-dark&bg_color=20232a&hide_border=true)
 
-## 🏆  Github Profile Trophy 
+🏆  Github Profile Trophy 
+------------------------
 
 ![Image Alt Text](https://github-profile-trophy.vercel.app/?username=jeeva-mindwave)
 
-👨‍💻 Repositories 👨‍💻
-------------------------
-
-[![](https://github-readme-stats.vercel.app/api/pin/?username=jeeva-mindwave)](https://github.com/jeeva-mindwave/Algorithms "Algorithms")[![](https://github-readme-stats.vercel.app/api/pin/?username=jeeva-mindwave)](https://github.com/jeeva-mindwave/DataStructures "Data Structures")
