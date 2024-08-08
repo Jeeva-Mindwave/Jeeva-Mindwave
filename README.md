@@ -39,7 +39,7 @@ Things I code with
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=jeeva-mindwave)](https://git.io/streak-stats)
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=jeeva-mindwave&theme=react-dark&bg_color=20232a&hide_border=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=jeeva-mindwave&theme=react-dark&bg_color=20232a&hide_border=true&color=E34F26)
 
 🏆  Github Profile Trophy 
 ------------------------
